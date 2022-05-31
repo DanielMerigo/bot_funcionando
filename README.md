@@ -1,4 +1,4 @@
-#**MERIGO'S BOT MUSIC**
+**MERIGO'S BOT MUSIC**
 
 * This is a personal project, for using in my and my friends discord servers;
 * Its main functionality is to play songs from youtube (for that you can use the /play commands);
